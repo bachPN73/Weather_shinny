@@ -1,0 +1,12 @@
+name: FPTchongBaoSo3
+title: FPTchongBaoSo3
+username: backonhome
+account: backonhome
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15100826
+bundleId: 10654600
+url: https://backonhome.shinyapps.io/FPTchongBaoSo3/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
